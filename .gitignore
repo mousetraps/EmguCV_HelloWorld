@@ -1,0 +1,6 @@
+EmguCV_HelloWorld/bin
+EmguCV_HelloWorld/obj
+*.user
+*.suo
+.idea
+*.sln.cache
